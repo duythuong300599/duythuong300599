@@ -29,21 +29,21 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
-<br>
+<!-- <br>
 <h2 align="center">👽 Where to find me 👽</h2>
-<br>
+<br> -->
 <!-- https://icons8.com -->
-<div align="center">
-  <a href="https://facebook.com/trungquandev" target="blank">
+<!-- <div align="center">
+  <a href="https://www.facebook.com/thuong.duy.300599" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
   </a>
   <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="trungquandev-linkedin" />
+    <img src="https://icons8.com/icon/CCDYqb5KK5vI/phone" alt="phone" title="0362036534"/>
   </a>
   <a href="https://instagram.com/trungquandev" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
   </a>
-</div>
+</div> -->
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
