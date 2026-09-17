@@ -1,4 +1,3 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
   <img src="svg/animate.svg" width="1200" alt="" />
 </a>
@@ -29,21 +28,14 @@
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 
-<!-- <br>
-<h2 align="center">👽 Where to find me 👽</h2>
-<br> -->
-<!-- https://icons8.com -->
-<!-- <div align="center">
-  <a href="https://www.facebook.com/thuong.duy.300599" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
+<br>
+<h2 align="center">📌 Featured Project 📌</h2>
+<br>
+<p align="center">
+  <a href="https://github.com/duythuong300599/dev-cheatsheet-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=duythuong300599&repo=dev-cheatsheet-hub&theme=dark" alt="Dev Cheatsheet Hub" />
   </a>
-  <a href="https://www.linkedin.com/in/trungquandev" target="blank">
-    <img src="https://icons8.com/icon/CCDYqb5KK5vI/phone" alt="phone" title="0362036534"/>
-  </a>
-  <a href="https://instagram.com/trungquandev" target="blank">
-    <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="trungquandev-instagram" />
-  </a>
-</div> -->
+</p>
 
 <br>
 <h2 align="center">📑 My Favorites Quote 📑</h2>
